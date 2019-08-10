@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>甘航的博客</title>
+  
+  <subtitle>CCoding是最容易获得的超能力！</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://ganhang.github.io/"/>
+  <updated>2019-08-10T07:46:32.449Z</updated>
+  <id>http://ganhang.github.io/</id>
+  
+  <author>
+    <name>甘航</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test_my_site</title>
+    <link href="http://ganhang.github.io/2019/08/10/test-my-site/"/>
+    <id>http://ganhang.github.io/2019/08/10/test-my-site/</id>
+    <published>2019-08-10T07:46:32.000Z</published>
+    <updated>2019-08-10T07:46:32.449Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://ganhang.github.io/2019/08/10/hello-world/"/>
+    <id>http://ganhang.github.io/2019/08/10/hello-world/</id>
+    <published>2019-08-10T07:38:01.063Z</published>
+    <updated>2019-08-10T07:38:01.063Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
